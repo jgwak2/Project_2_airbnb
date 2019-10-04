@@ -1,0 +1,5 @@
+Here we look at prices of Airbnb accomodations in Chicago neighborhoods and estimate how much revenue each neighborhood generates.
+We use web scrapping to gather data since Airbnb does not release API's.
+Javascript D3 is used to visualize neighborhoods and its respective estimates.
+Finally, we determine whether a neighborhood has potential for investment.
+We acknowlege there are other factors in determining investments in properties, but this is a simple exercise to showcase potential trends and areas of high traffic.
